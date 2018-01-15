@@ -14,9 +14,9 @@ To get stared with this Google Glass Demo: Shopping List, you will need the foll
 If you currently do not have this IDE, click the following link to download it. [Android Studio](https://developer.android.com/studio/index.html)
 
 Once you install Android Studio you will also need to install the following tools for Android Studio.
-> Android 4.4.2 (API 19)
-	> SDK Platform  (API 19)
-	> Glass Development Kit Preview (API 19)
+- Android 4.4.2 (API 19)
+	- SDK Platform  (API 19)
+	- Glass Development Kit Preview (API 19)
 
 To install these tools, click on **configure > SDK Manager** from the main menu of Android Studio. Then intall the appropiate tools. Both SDK Platform and GDK Preview are under the package Android 4.4.2 (API 19).
 
@@ -26,10 +26,10 @@ Once you have the necessary tools installed you need to clone this repo from the
 
 Now make sure that google glass is on **debug mode** and is connected to you computer. Once that's complete and you successfully built the project, you must make sure you have the correct configurations. To do this, click on **Run > Edit Configurations** at the top of the screen. Then you must apply the the correct setting as follows...
 
-> Module - app
-> Deploy - Default APK
-> Launch - Default Activity
-> Target - Open Select Target Catalog
+- Module - app
+- Deploy - Default APK
+- Launch - Default Activity
+- Target - Open Select Target Catalog
 
 Once you applied the above configurations, you may click the **Play** button on the top right of the screen. Then double click on the appropiate device.
 
