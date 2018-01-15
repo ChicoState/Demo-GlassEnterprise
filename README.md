@@ -34,7 +34,7 @@ Now make sure that google glass is on **debug mode** and is connected to you com
 
 Once you applied the above configurations, you need to sync your gradle. To do this click on **Tools > Android > Sync project with gradle files** located at the top. Then you may click the **Play** button on the top right of the screen. Then double click on the appropiate device.
 
-That's it. You have successfully intalled the Shopping List Demo.
+That's it. You have successfully installed the Shopping List Demo.
 
 ## Addition links and Documentation
 
