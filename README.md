@@ -44,6 +44,6 @@ To learn more about developing for Google Glass, head over to [Glass Explorer Ed
 
 To learn more about developing in Android Studio, head over to [Android Training](https://developer.android.com/training/index.html).
 
-For a free course on Developing Android Apps, head over to [Android Developer by Google] (https://www.udacity.com/course/new-android-fundamentals--ud851).
+For a free course on Developing Android Apps, head over to [Android Developer by Google](https://www.udacity.com/course/new-android-fundamentals--ud851).
 
 For more demo application, head over to [Glass Explorer Edition Samples](https://developers.google.com/glass/samples/).
