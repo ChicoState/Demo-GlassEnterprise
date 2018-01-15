@@ -10,7 +10,8 @@ If there is 1 or more items in the list, then each item will be displayed.
 
 ## Software needed
 To get stared with this Google Glass Demo: Shopping List, you will need the following Integrated Development Environment (IDE).
-- **Android Studio**.
+- **Android Studio**
+
 If you currently do not have this IDE, click the following link to download it. [Android Studio](https://developer.android.com/studio/index.html)
 
 Once you install Android Studio you will also need to install the following tools for Android Studio.
